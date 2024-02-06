@@ -12,7 +12,7 @@ I am a student at the University of Tennessee studying business analytics, econo
 # Table of Contents 
 ### - Projects
 
-[a relative link](INMT-Project.md)
+([INMT-Project.md](https://github.com/CTorresKnox/Technical-Portfolio/blob/main/Projects/INMT%20Project.md))
 
 - INMT Project
 - Final Projects?
