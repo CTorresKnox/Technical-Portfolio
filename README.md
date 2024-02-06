@@ -11,11 +11,9 @@ I am a student at the University of Tennessee studying business analytics, econo
 
 # Table of Contents 
 ### - Projects
-
-([INMT-Project.md](https://github.com/CTorresKnox/Technical-Portfolio/blob/main/Projects/INMT%20Project.md))
-
-- INMT Project
+- [Information Management Project](https://github.com/CTorresKnox/Technical-Portfolio/blob/main/Projects/INMT%20Project.md)
 - Final Projects?
+  
 ### - Applications & Coding Work 
 - For Loops Work
 - RShiny Application 
