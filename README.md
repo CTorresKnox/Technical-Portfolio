@@ -15,7 +15,7 @@ I am a student at the University of Tennessee studying business analytics, econo
 - Final Projects?
   
 ### - Applications & Coding Work 
-- For Loops Work
+- [Automation with Loops](https://github.com/CTorresKnox/Technical-Portfolio/blob/main/Applications%20%26%20Coding%20Work/Automation%20with%20Loops.md)
 - RShiny Application 
 ### - Research Papers/Analysis Reports & Writing Samples
 - Immigration Paper
