@@ -11,7 +11,10 @@ I am a student at the University of Tennessee studying business analytics, econo
 
 # Table of Contents 
 ### - Projects
-- Information Management Project
+
+[a relative link](INMT-Project.md)
+
+- INMT Project
 - Final Projects?
 ### - Applications & Coding Work 
 - For Loops Work
