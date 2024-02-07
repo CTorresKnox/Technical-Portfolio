@@ -1,13 +1,15 @@
 # TECHNICAL PORTFOLIO
 ### CHRISTOPHER TORRES - Knoxville,TN
+
+### About 
+I am currently an undergraduate senior studying business analytics, economics and supply chain management. This technical portfolio is comprised of academic projects, research, analysis, and coding related work. My current interests are: economic research, supply chain management, legal research, data analysis, and current events. This portfolio was made with the intention to demonstrate my technical skills. For more information, please visit one of the links posted.
+
 ### Links
 - Email: ctorre13@vols.utk.edu
 - Tableau Public: https://public.tableau.com/app/profile/christopher.torres1856/vizzes
 - LinkedIn: www.linkedin.com/in/ctorresknox
 
 
-### About 
-I am currently studying business analytics, economics and supply chain management. This technical portfolio is comprised of academic projects, research, analysis, and coding related work. My current interests are: economic research, supply chain management, legal research, data analysis, and current events. This portfolio was made with the intention to demonstrate my technical skills. For more information, please visit one of the links posted.
 
 # Table of Contents 
 ### - Projects
