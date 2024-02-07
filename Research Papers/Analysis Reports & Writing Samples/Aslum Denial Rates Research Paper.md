@@ -1,8 +1,8 @@
 # THE RELATIONSHIP BETWEEN CHARACTERISTIC DIFFERENCES OF IMMIGRATION COURT JUDGES AND ASLYLUM DENIAL RATES IN THE UNITED STATES
-### Christopher Torres 
-### Research Project 
-### December 2023
-### ECON 381
+#### Christopher Torres 
+#### Research Project 
+#### December 2023
+#### ECON 381
 
 ## ABSTRACT
     The United States immigration courts recently approved a historically large amount of
@@ -57,3 +57,4 @@ least when we considered each characteristic one at a time, were gender, length 
 immigration judge, veterans preference, prior public immigration experience, and prior
 experience doing immigration work for a non-profit organization.” (GAO,2019). These variables
 were a basis for my research and guided me towards my results.
+
