@@ -14,13 +14,14 @@ I am currently an undergraduate senior studying business analytics, economics an
 # Table of Contents 
 ### - Projects
 - [Information Management Project](https://github.com/CTorresKnox/Technical-Portfolio/blob/main/Projects/INMT%20Project.md)
-- Final Projects?
+- 2023 Rent Project (to be uploaded soon) 
   
 ### - Applications & Coding Work 
 - [Automation with Loops](https://github.com/CTorresKnox/Technical-Portfolio/blob/main/Applications%20%26%20Coding%20Work/Automation%20with%20Loops.md)
 - [RShiny Application](https://github.com/CTorresKnox/Technical-Portfolio/blob/main/Applications%20%26%20Coding%20Work/Video%20Game%20Recommender%20App.md)
+  
 ### - Research Papers/Analysis Reports & Writing Samples
-- Immigration Paper
-- County Paper
-- BAS Analysis?
+- Asylum Denial Rates Research Paper (to be uploaded soon) 
+- Comprehensive Economic Report: Sullivan County (to be uploaded soon) 
+
   
