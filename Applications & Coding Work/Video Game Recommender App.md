@@ -1,7 +1,7 @@
 # Video Game Recommendation Application - RShiny 
 Online Link: https://chrizt3.shinyapps.io/VideoGameRecommender/
 ## About
-blah
+blah blah blah
 
 ## Setup & UI Code
 ```
@@ -79,3 +79,4 @@ server <- function(input, output, session) {
 
 shinyApp(ui, server)
 ```
+## Examples 
