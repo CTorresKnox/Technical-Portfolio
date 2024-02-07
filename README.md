@@ -16,7 +16,7 @@ I am currently studying business analytics, economics and supply chain managemen
   
 ### - Applications & Coding Work 
 - [Automation with Loops](https://github.com/CTorresKnox/Technical-Portfolio/blob/main/Applications%20%26%20Coding%20Work/Automation%20with%20Loops.md)
-- RShiny Application 
+- [RShiny Application](https://github.com/CTorresKnox/Technical-Portfolio/blob/main/Applications%20%26%20Coding%20Work/Video%20Game%20Recommender%20App.md)
 ### - Research Papers/Analysis Reports & Writing Samples
 - Immigration Paper
 - County Paper
