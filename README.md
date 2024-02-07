@@ -7,7 +7,7 @@
 
 
 ### About 
-I am a student at the University of Tennessee studying business analytics, economics, and supply chain management. This technical portfolio is comprised of academic projects, research, analysis, and coding related work. My current interests are: economic research, supply chain management, legal research, data analysis, and current events. This portfolio was made with the intention to demonstrate my technical skills that I have learned. For more information, please click on one of the links posted.
+I am currently studying business analytics, economics and supply chain management. This technical portfolio is comprised of academic projects, research, analysis, and coding related work. My current interests are: economic research, supply chain management, legal research, data analysis, and current events. This portfolio was made with the intention to demonstrate my technical skills that I have learned. For more information, please click on one of the links posted.
 
 # Table of Contents 
 ### - Projects
