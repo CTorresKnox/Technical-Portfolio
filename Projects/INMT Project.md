@@ -15,7 +15,7 @@ Mar 8, 2023
 
 
 # Project Description 
-A collaborative project aimed to design, construct, populate, and manipulate a database for a fictional University's new athletic center and programs. Project completed for Information Management 342: Introduction to Database Systems. 
+A collaborative project aimed to design, construct, populate, and manipulate a database for a fictional University's new athletic center and programs. Project completed for Introduction to Database Systems. 
 
 # Project Narrative 
 Hawkins University is a small public university located in the midwestern United States. As a public
