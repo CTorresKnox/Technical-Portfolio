@@ -22,6 +22,6 @@ I am currently an undergraduate senior studying business analytics, economics an
   
 ### - Research Papers/Analysis Reports & Writing Samples
 - Asylum Denial Rates Research Paper (to be uploaded soon) 
-- Comprehensive Economic Report: Sullivan County (to be uploaded soon) 
+- [County Analysis Sample: Sullivan County](https://github.com/CTorresKnox/Technical-Portfolio/blob/main/Research%20Papers/Analysis%20Reports%20%26%20Writing%20Samples/County%20Analysis%20Sample.md)
 
   
