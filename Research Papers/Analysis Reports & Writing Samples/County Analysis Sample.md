@@ -19,6 +19,6 @@ Deliverable: [County Analysis Paper.pdf](https://github.com/user-attachments/fil
  &nbsp; 
  
 ## <p align="center"> INTRODUCTION
-
+Nestled in the South-Central Appalachian Mountains are five cities: Kingsport, Bristol, Piney Flats, Blountville, and Bluff City within a 420-square-mile county titled Sullivan. Named after General John Sullivan, a Revolutionary War leader who was captured by the British at the Battle of Long Island, Sullivan County, Tennessee is part of the Kingsport–Bristol TN-VA Metropolitan Statistical Area, which is also 2/3rds of the larger Kingsport–Johnson City–Bristol, TN-VA Combined Statistical Area known as the "Tri-Cities area". Sullivan County is the "birthplace of country music "and has strong cultural ties to rural 'southern' (South Central) Appalachian culture.
 
 
