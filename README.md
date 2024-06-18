@@ -2,7 +2,7 @@
 ### CHRISTOPHER TORRES - Knoxville,TN
 
 ### About 
-I am a recent graduate who previously studied business analytics, economics and supply chain management. This technical portfolio is comprised of academic projects, research, analysis, and coding related work. My current interests are: economic research,sports analytics,policy analysis, supply chain management, legal research, data analysis, and current events. This portfolio was made with the intention to demonstrate my technical skills. For more information, please visit one of the links posted.
+I am a recent graduate who previously studied business analytics, economics and supply chain management. This technical portfolio is comprised of academic projects, research, data analysis, and coding related work. My current interests are: economic research,sports analytics,policy analysis, supply chain management, legal research, data analysis, and current events. This portfolio was made with the intention to demonstrate my technical skills and emprical research. For more information, please visit one of the links posted.
 
 ### Links
 - Email: ctorresknox@gmail.com
