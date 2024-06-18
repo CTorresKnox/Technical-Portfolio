@@ -1,7 +1,7 @@
-# COUNTY ANALYSIS: SULLIVAN
-The following sample is from a comprehensive economic report for my Applied Economic Analysis Class. Data was sourced through api calls and queries mainly from Census.gov. The attached pdf is the first thrid of the report. If more information is needed feel free to email me.
+# A COMPREHENSIVE ECONOMIC REPORT: *SULLIVAN COUNTY, TENNESSEE*
+The following sample is from a comprehensive economic report for my Applied Economic Analysis Class. Data was sourced through api calls and queries mainly from Census.gov and other state level public databases.
 
-[County Analysis Paper (Sample).pdf](https://github.com/CTorresKnox/Technical-Portfolio/files/14252640/County.Analysis.Paper.Sample.pdf)
+
 
 ### From the Section " Population and Growth" 
 
