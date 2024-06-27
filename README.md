@@ -21,7 +21,7 @@ I am a recent graduate who previously studied business analytics, economics and 
 - [Video Game Recommendation Application](https://github.com/CTorresKnox/Technical-Portfolio/blob/main/Applications%20%26%20Coding%20Work/Video%20Game%20Recommender%20App.md) (RStudio-Shiny)
   
 ### - Research Papers/Analysis Reports & Writing Samples
-- [Asylum Denial Rates Research Paper] (Stata) 
+- [Asylum Denial Rates Research Paper](https://github.com/CTorresKnox/Technical-Portfolio/blob/main/Research%20Papers/Analysis%20Reports%20%26%20Writing%20Samples/Asylum%20Denial%20Rates%20Research%20Paper.md)(Stata) 
 - [County Analysis Sample: Sullivan County](https://github.com/CTorresKnox/Technical-Portfolio/blob/main/Research%20Papers/Analysis%20Reports%20%26%20Writing%20Samples/County%20Analysis%20Sample.md) (Stata)
 - Hedonic Pricing Model (Stata) 
   
