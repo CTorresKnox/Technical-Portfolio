@@ -23,8 +23,8 @@ The United States Government Accountability Office (GAO) also does a very thorou
 ## <p align="center"> MODEL STRUCTURE
 This study utilized an OLS model that would attempt to explain the variance in denial rates using descriptive variables. The model uses regression analysis to describe the strength of relationship between denial rates and descriptive traits of judges (e.g., sex, salary, democrat) that would help identify trends. It has been stated many times that judicial philosophy and identity influence asylum decisions, therefore I tried to replicate judicial philosophy with my variables. A judge’s philosophy could be crafted in law school or given to him by an appointing superior. My regression model, variables, and definitions are listed below.
 
-<img src=> <p align="center">https://github.com/CTorresKnox/Technical-Portfolio/assets/144376690/62a47742-6988-41bc-aa9c-c50d0fdd8ee7>
-<p align="center">https://github.com/CTorresKnox/Technical-Portfolio/assets/144376690/0702c30b-5df3-4bf1-969e-c999cc4f3000>
+<p align="center"><img src=https://github.com/CTorresKnox/Technical-Portfolio/assets/144376690/62a47742-6988-41bc-aa9c-c50d0fdd8ee7>
+<p align="center"><img src=https://github.com/CTorresKnox/Technical-Portfolio/assets/144376690/0702c30b-5df3-4bf1-969e-c999cc4f3000>
 
 &nbsp;
 My project does not look at the entire population of immigration judges, over 650, but rather focused on a cross sectional sample of 100 randomly selected judges which I will discuss shortly. It is worth mentioning that the “year appointed” also identifies the appointing Attorney General, which allows me to group judges by who appointed them, indicating an appointing political party. My hypothesis is that certain characteristics will be able to explain the erratic denial rates. I hope to Identify certain traits that can be used to predict denial rates amongst judges in the future. The alternative hypothesis is that no traits can explain the denial rates; however, even if we reject the null, we can still identify characteristics that increase denial rates.
@@ -32,7 +32,7 @@ My project does not look at the entire population of immigration judges, over 65
 ## <p align="center"> DATA STRUCTURE
 The data for this study with originally sourced from the Transactional Records Access Clearing house (TRAC) at Syracuse University. Their sources provided me with judge specific information including denial rates, year appointed, and educational and professional summaries. Building off this data, I generated multiple variables from government sources like The Executive Office for Immigration Review (EOIR), The U.S Department of Justice (DOJ), and The United States Citizenship and Immigration Services (USCIS). Ancillary websites such as specific government offices were very helpful in finding data. Descriptive statistics of each variable are shown below.
 
-<p align="center">https://github.com/CTorresKnox/Technical-Portfolio/assets/144376690/e54c4ca5-2357-423c-9bcf-246b024a10f3>
+ <p align="center"><img src=https://github.com/CTorresKnox/Technical-Portfolio/assets/144376690/e54c4ca5-2357-423c-9bcf-246b024a10f3>
 
 &nbsp;
 The parameters for this data include a “snapshot” of asylum decisions by judge from 2017 -2022. Each denial rate is an aggregated average from the 6 years selected. I randomly selected 100 judges across all immigration offices and assigned them a random identifier. Once the data was completed, I had a panel data set with 100 individuals and over 10 independent variables to help explain denial rates.
@@ -40,13 +40,13 @@ The parameters for this data include a “snapshot” of asylum decisions by jud
 ## <p align="center"> RESULTS & ANALYSIS
 My results produced insightful results, and yet we still must reject our null hypothesis in favor of the alternative. All variables were preforming as expected except the private schooling variable. The estimate relationship was thought to be negative under the assumption that private schooling would cultivate a more lenient and liberal personal philosophy. The model can only explain roughly 40% of the variation in denial rates amongst judges which is depicted in the R-squared statistic. However, since judicial denial rates differ so extremely, describing 40% of that variation with only four independent variables could be considered a success to some.
 
-<p align="center">https://github.com/CTorresKnox/Technical-Portfolio/assets/144376690/c6da4eb6-d4fc-47ab-9fef-41a97cc2ef25
+<p align="center"><img src=https://github.com/CTorresKnox/Technical-Portfolio/assets/144376690/c6da4eb6-d4fc-47ab-9fef-41a97cc2ef25>
 
 &nbsp;
 My model relays the following information, Judges in republican voting states have denial rates that are 29.87 percentage points higher than their counter parts. The main results also illustrate that male judges have denial rates that are approximately 7.7 percentage points. Privately educated judges have denials rates just a
 little bit higher than publicly educated judges at 5.5 percentage points. The appointment year variable demonstrates a .47 percentage points variance in denial rates between different appointment years.
 
-<p align="center">https://github.com/CTorresKnox/Technical-Portfolio/assets/144376690/6ae1683f-ab05-4a9a-bb1c-55cff885cca5
+<p align="center"><img src=https://github.com/CTorresKnox/Technical-Portfolio/assets/144376690/6ae1683f-ab05-4a9a-bb1c-55cff885cca5>
 
 &nbsp;
 Not all my variables ended up being main driving traits due to high standard deviations and a lack of correlation. I assumed that the year a judge was appointed might have more significance since judges are appointed in groups by the Attorney General. My results show that the year appointed variable had the smallest standard deviation, but this is irrelevant due to the data being in years, and there are no means or averages for years. The republican state variable had one of the highest standard deviations, but I believe this is true because the difference of denial rates within each state are still quite large. The constant is also negative with a negative t-statistic which implies that the relationship
