@@ -23,8 +23,8 @@ The United States Government Accountability Office (GAO) also does a very thorou
 ## <p align="center"> MODEL STRUCTURE
 This study utilized an OLS model that would attempt to explain the variance in denial rates using descriptive variables. The model uses regression analysis to describe the strength of relationship between denial rates and descriptive traits of judges (e.g., sex, salary, democrat) that would help identify trends. It has been stated many times that judicial philosophy and identity influence asylum decisions, therefore I tried to replicate judicial philosophy with my variables. A judge’s philosophy could be crafted in law school or given to him by an appointing superior. My regression model, variables, and definitions are listed below.
 
-<p align="center">https://github.com/CTorresKnox/Technical-Portfolio/assets/144376690/62a47742-6988-41bc-aa9c-c50d0fdd8ee7
-<p align="center">https://github.com/CTorresKnox/Technical-Portfolio/assets/144376690/0702c30b-5df3-4bf1-969e-c999cc4f3000
+<img src=> <p align="center">https://github.com/CTorresKnox/Technical-Portfolio/assets/144376690/62a47742-6988-41bc-aa9c-c50d0fdd8ee7>
+<p align="center">https://github.com/CTorresKnox/Technical-Portfolio/assets/144376690/0702c30b-5df3-4bf1-969e-c999cc4f3000>
 
 &nbsp;
 My project does not look at the entire population of immigration judges, over 650, but rather focused on a cross sectional sample of 100 randomly selected judges which I will discuss shortly. It is worth mentioning that the “year appointed” also identifies the appointing Attorney General, which allows me to group judges by who appointed them, indicating an appointing political party. My hypothesis is that certain characteristics will be able to explain the erratic denial rates. I hope to Identify certain traits that can be used to predict denial rates amongst judges in the future. The alternative hypothesis is that no traits can explain the denial rates; however, even if we reject the null, we can still identify characteristics that increase denial rates.
@@ -32,7 +32,7 @@ My project does not look at the entire population of immigration judges, over 65
 ## <p align="center"> DATA STRUCTURE
 The data for this study with originally sourced from the Transactional Records Access Clearing house (TRAC) at Syracuse University. Their sources provided me with judge specific information including denial rates, year appointed, and educational and professional summaries. Building off this data, I generated multiple variables from government sources like The Executive Office for Immigration Review (EOIR), The U.S Department of Justice (DOJ), and The United States Citizenship and Immigration Services (USCIS). Ancillary websites such as specific government offices were very helpful in finding data. Descriptive statistics of each variable are shown below.
 
-<p align="center">https://github.com/CTorresKnox/Technical-Portfolio/assets/144376690/e54c4ca5-2357-423c-9bcf-246b024a10f3
+<p align="center">https://github.com/CTorresKnox/Technical-Portfolio/assets/144376690/e54c4ca5-2357-423c-9bcf-246b024a10f3>
 
 &nbsp;
 The parameters for this data include a “snapshot” of asylum decisions by judge from 2017 -2022. Each denial rate is an aggregated average from the 6 years selected. I randomly selected 100 judges across all immigration offices and assigned them a random identifier. Once the data was completed, I had a panel data set with 100 individuals and over 10 independent variables to help explain denial rates.
