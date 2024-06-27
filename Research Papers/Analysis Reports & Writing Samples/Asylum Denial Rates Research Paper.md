@@ -60,13 +60,13 @@ I recommend a follow-up study be done to further analyze this situation. In futu
 
 
 ## <p align="center"> WORKS CITED
-“Asylum Decisions and Denials Jump in 2018.” TRAC Immigration, Transactional Records Access Clearinghouse, 29 Nov. 2018, trac.syr.edu/immigration/reports/539/ 
+“Asylum Decisions and Denials Jump in 2018.” TRAC Immigration, Transactional Records Access Clearinghouse, 29 Nov. 2018, trac.syr.edu/immigration/reports/539/  
 
 &nbsp;
-“Asylum Outcome Continues to Depend on the Judge Assigned.” TRAC Immigration, Transactional Records Access Clearinghouse, 20 Nov. 2017, trac.syr.edu/immigration/reports/490/ 
+“Asylum Outcome Continues to Depend on the Judge Assigned.” TRAC Immigration, Transactional Records Access Clearinghouse, 20 Nov. 2017, trac.syr.edu/immigration/reports/490/  
 
 &nbsp;
-“Asylum Process in Immigration Courts and Selected Trends - CRS Reports.” CRS Reports, Congressional Research Service, 15 May 2023, crsreports.congress.gov/product/pdf/R/R47504 
+“Asylum Process in Immigration Courts and Selected Trends - CRS Reports.” CRS Reports, Congressional Research Service, 15 May 2023, crsreports.congress.gov/product/pdf/R/R47504  
 
 &nbsp;
 “The Civil Employee’s Resource.” FederalPay.Org, FederalPay, federalpay.org/. Accessed 2 Dec. 2023.
